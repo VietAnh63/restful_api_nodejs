@@ -1,0 +1,21 @@
+[{
+        "Ma": "course1",
+        "Ten": "Lập trình Java cơ bản",
+        "Link": "https://communityuni.com/Home/JavaToanTap&quot"
+    },
+    {
+        "Ma": "course2",
+        "Ten": "Lập trình LINQ",
+        "Link": "https://communityuni.com/Home/LINQ&quot"
+    },
+    {
+        "Ma": "course3",
+        "Ten": "Lập trình Webservice RESTful",
+        "Link": "https://communityuni.com/Home/WebService&quot"
+    },
+    {
+        "Ma": "course4",
+        "Ten": "Lập trình Android",
+        "Link": "https://communityuni.com/Home/Android&quot"
+    }
+]
